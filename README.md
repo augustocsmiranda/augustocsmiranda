@@ -7,6 +7,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/David-Summers/Azure-Design/d0db7b318f369c99ba2362bf2c3a2bc94f58dbec/SVG_Azure_All/Azure%20(Legacy).svg">
+  
   <img align="right" alt="augustocsmIMG" height="200" style="border-radius:100px;" src="https://media.discordapp.net/attachments/963212530950500426/1085626483231424662/augustocsmIMG_SP.png?width=352&height=606">
 </div>
 <br><br>
@@ -19,6 +21,6 @@
 
 <div>
 <a href="https://github.com/augustocsmiranda">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocsmiranda&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustocsmiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocsmiranda&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustocsmiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
