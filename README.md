@@ -13,7 +13,7 @@
   <img align="center" alt="Win-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="right" alt=" " width="150" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/963212530950500426/1085626483231424662/augustocsmIMG_SP.png?width=352&height=606">
 </div>
-
+<br><br>
 <div>
 <a href="https://www.instagram.com/augustocsmiranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "augustocezarmiranda@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
