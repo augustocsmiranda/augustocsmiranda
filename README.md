@@ -14,7 +14,7 @@
 </div>
 
 <div style="display: inline_block">
-  <img align="right" alt=" "  style="border-radius:50px;" src="https://media.discordapp.net/attachments/963212530950500426/1085626483231424662/augustocsmIMG_SP.png?width=352&height=606">
+  <img align="right" alt=" " witdh="300"height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/963212530950500426/1085626483231424662/augustocsmIMG_SP.png?width=352&height=606">
 </div>
 <br><br><br><br><br><br><br><br>
 <div>
