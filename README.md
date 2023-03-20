@@ -1,7 +1,8 @@
 ### Olá!👋 Eu sou Augusto Miranda
 
 - 🔭 Hoje trabalho com Suporte em TI
-- 🌱 Estudando C#
+- :books: Cursando Bacharelado em Ciências da Computação da UFRPE
+- :open_book: Estudando C#
 
 <!--> <!-->
 <div style="display: inline_block"><br>
