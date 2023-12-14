@@ -12,7 +12,7 @@
   <img align="center" alt="Aug-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Aug-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Win-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Win-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/unity/unity-original-wordmark.svg">
+  <img align="center" alt="Win-HTML" height="30" width="40" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png?raw=true">
   
 </div>
 
