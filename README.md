@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Suporte em TI
 - :books: Cursando Bacharelado em Ciências da Computação da UFRPE
-- :open_book: Estudando C#
+- :open_book: 
 
 <!--> <!-->
 <div style="display: inline_block"><br>
